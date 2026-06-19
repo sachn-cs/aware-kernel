@@ -141,3 +141,10 @@ logs/
 *.pkl
 *.npy
 *.npz
+
+# Distribution / packaging
+*.whl
+*.tar.gz
+
+# ruff
+.ruff_cache/

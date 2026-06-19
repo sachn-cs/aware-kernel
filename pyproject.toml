@@ -10,7 +10,7 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.10"
 authors = [
-    {name = "Author", email = "author@example.com"},
+    {name = "sachn-cs"},
 ]
 keywords = ["kernel", "machine-learning", "nystrom", "ridge-regression"]
 classifiers = [
@@ -41,8 +41,11 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/example/aware-kernel"
-Repository = "https://github.com/example/aware-kernel"
+Homepage = "https://github.com/sachn-cs/aware-kernel"
+Repository = "https://github.com/sachn-cs/aware-kernel"
+Issues = "https://github.com/sachn-cs/aware-kernel/issues"
+Changelog = "https://github.com/sachn-cs/aware-kernel/blob/master/CHANGELOG.md"
+Documentation = "https://github.com/sachn-cs/aware-kernel/tree/master/docs"
 
 [tool.setuptools.packages.find]
 where = ["."]
